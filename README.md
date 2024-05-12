@@ -7,7 +7,6 @@
 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects. <br>
 
 
-
 [ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-rajput-a2a385196/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vmrajput20) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](datascienceportfol.io/VaishnaviRajput)
 
 
